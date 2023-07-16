@@ -9,7 +9,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class Demo...
+ * Servlet implementation class Demo.
  */
 @WebServlet("/Demo")
 public class Demo extends HttpServlet {
